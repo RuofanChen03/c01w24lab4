@@ -1,0 +1,1 @@
+Bug: modified App.js and server.js; missing functionalities related to server modification and frontend logistics.
